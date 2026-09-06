@@ -29,4 +29,5 @@ Set `project_dir` at the top of each script, then run in order.
 | 01_EDA.R | Table 1, Table 2, Figures 1–6 |
 | 02_RQ1_model_comparison.R | Table 3, Appendix Tables A1, A2, A3 |
 | 03_RQ2_RQ3_models.R | Table 4, Figure 7, Appendix Figures A1–A2, Appendix Table A4 |
-Scripts 02 and 03 cache fitted models as .rds files
+
+Scripts 02 and 03 cache fitted models as .rds files.
